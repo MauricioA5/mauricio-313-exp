@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath> 
+#include <cstring> // for memcpy
 
 struct Point {
     int x, y;
